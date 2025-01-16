@@ -29,11 +29,15 @@ This project is a web application where users can add, view, update, and delete 
 
 ## Screenshots
 
-### Backend (Spring Boot)
-![Backend Screenshot](path/to/backend-screenshot.png)
-
 ### Frontend (React)
-![Frontend Screenshot](path/to/frontend-screenshot.png)
+![image](https://github.com/user-attachments/assets/ac83cd61-f314-4e44-a471-2b6769e5f726)
+![image](https://github.com/user-attachments/assets/aaa1bea9-563d-4f22-9009-634fe620ca8b)
+
+### Backend (Spring Boot)
+![image](https://github.com/user-attachments/assets/31d136f3-d7fa-4907-aaba-87b438cd6c90)
+
+## Database 
+![image](https://github.com/user-attachments/assets/dec156d7-01e5-4df9-aee0-7bbf0b7d8c2f)
 
 ---
 
