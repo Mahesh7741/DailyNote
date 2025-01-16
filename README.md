@@ -182,6 +182,8 @@ Watch a short demo of the **Daily Note WebApp** in action:
   }
   ```
 
+You can add each section in your `README.md` file to clearly define each API endpoint.
+
 ---
 
 ## Contributing
