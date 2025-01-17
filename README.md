@@ -10,7 +10,7 @@ This project is a web application where users can add, view, update, and delete 
 ## Demo Video
 Watch a short demo of the **Daily Note WebApp** in action:
 
-
+Uploading DiaryNote.mp4…
 
 ---
 ## Screenshots
