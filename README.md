@@ -3,13 +3,31 @@
 ## Overview
 This project is a web application where users can add, view, update, and delete their daily notes. The backend is built with **Spring Boot** to handle RESTful API requests, while the frontend is developed with **React** to create a user-friendly interface.
 
+
+
 ---
 
-## Features
-- **Add a Daily Note**: Create a new note with a title and content.
-- **View Previous Notes**: View all notes stored in the database.
-- **Update a Note**: Edit any existing note.
-- **Delete a Note**: Remove a note from the list.
+## Demo Video
+Watch a short demo of the **Daily Note WebApp** in action:
+
+Uploading DiaryNote.mp4…
+
+---
+## Screenshots
+
+### Frontend (React)
+![image](https://github.com/user-attachments/assets/ac83cd61-f314-4e44-a471-2b6769e5f726)
+![image](https://github.com/user-attachments/assets/aaa1bea9-563d-4f22-9009-634fe620ca8b)
+
+### Backend (Spring Boot)
+![image](https://github.com/user-attachments/assets/31d136f3-d7fa-4907-aaba-87b438cd6c90)
+
+
+https://github.com/user-attachments/assets/001b4084-e3b1-42c5-b57a-b9b90b90088f
+
+
+## Database 
+![image](https://github.com/user-attachments/assets/dec156d7-01e5-4df9-aee0-7bbf0b7d8c2f)
 
 ---
 
@@ -24,23 +42,13 @@ This project is a web application where users can add, view, update, and delete 
 - **React**: JavaScript library for building the user interface.
 - **Axios**: For making HTTP requests to the backend API.
 - **Material-UI**: For responsive UI components.
-
 ---
 
-## Screenshots
-
-### Backend (Spring Boot)
-![Backend Screenshot](path/to/backend-screenshot.png)
-
-### Frontend (React)
-![Frontend Screenshot](path/to/frontend-screenshot.png)
-
----
-
-## Demo Video
-Watch a short demo of the **Daily Note WebApp** in action:
-
-[![Demo Video](https://img.youtube.com/vi/your-video-id/0.jpg)](https://www.youtube.com/watch?v=your-video-id)
+## Features
+- **Add a Daily Note**: Create a new note with a title and content.
+- **View Previous Notes**: View all notes stored in the database.
+- **Update a Note**: Edit any existing note.
+- **Delete a Note**: Remove a note from the list.
 
 ---
 
