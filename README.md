@@ -10,7 +10,7 @@ This project is a web application where users can add, view, update, and delete 
 ## Demo Video
 Watch a short demo of the **Daily Note WebApp** in action:
 
-Uploading DiaryNote.mp4…
+[Uploading DiaryNote.mp4…](https://github.com/user-attachments/assets/001b4084-e3b1-42c5-b57a-b9b90b90088f)
 
 ---
 ## Screenshots
@@ -23,7 +23,7 @@ Uploading DiaryNote.mp4…
 ![image](https://github.com/user-attachments/assets/31d136f3-d7fa-4907-aaba-87b438cd6c90)
 
 
-https://github.com/user-attachments/assets/001b4084-e3b1-42c5-b57a-b9b90b90088f
+
 
 
 ## Database 
